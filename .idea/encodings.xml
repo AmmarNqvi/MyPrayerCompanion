@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/wear/src/main/java/com/androidweardocs/wearablemessage/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/java/com/androidweardocs/wearablemessage/Qibla.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/java/com/androidweardocs/wearablemessage/logic/CalcQibla.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/java/com/androidweardocs/wearablemessage/logic/QiblaCompassManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/java/com/androidweardocs/wearablemessage/util/ConcurrencyUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/java/com/androidweardocs/wearablemessage/util/ConstantUtilInterface.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/java/com/androidweardocs/wearablemessage/util/LocationEnum.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/res/drawable-hdpi/about.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/res/drawable-hdpi/arrow.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/res/drawable-hdpi/background.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/res/drawable-hdpi/icon.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/res/layout/main.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/res/layout/main_activity.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/res/values/arrays.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wear/src/main/res/values/dimens.xml" charset="UTF-8" />
+  </component>
+</project>

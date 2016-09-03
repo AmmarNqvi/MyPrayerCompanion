@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyPrayerCompanion</string>
+    <string name="hello_round">Trying to retrieve data \n Please ensure internet connection \n and launch/relaunch phone app</string>
+    <string name="hello_square">Trying to retrieve data \n Please ensure internet connection \n and launch/relaunch phone app</string>
+    <string name="intro_text">Long click to exit</string>
+    <string name="grid_activity_title_text"> Grid Activity </string>
+    <string name="finish_activity"> Prayer Times </string>
+    <string name="start_timer"> Qiblah Direction </string>
+    <string name="show_notification"> Nearest Mosque </string>
+    <string name="notification_title"> Skeleton App Notification </string>
+    <string name="action_launch_activity">Launch Activity</string>
+    <string name="settings_label">Settings</string>
+    <string name="prefs_menu_title">Settings</string>
+    <string name="about_menu_title">About</string>
+
+    <string name="screen_down_text">Please hold your phone horizontally and toward upside so that it\'s compass could work. Can\'t determine the direction of the north accurately now.</string>
+
+    <string name="no_location_yet">Please wait. Detecting your location...\nOr you can select your city in the Settings.</string>
+    <string name="default_location_text">Direction of Qibla \nin %s</string>
+    <string name="geo_location_info">Location Data Acquired.</string>
+    <string name="latitude_north">N</string>
+    <string name="latitude_south">S</string>
+    <string name="longitude_east">E</string>
+    <string name="longitude_west">W</string>
+
+    <string name="gps_status">Use GPS</string>
+    <string name="gps_status_summary">Enables using GPS for getting your location.</string>
+
+    <string name="gps_prompt">Use GPS</string>
+    <string name="gps_summary">Enables using GPS for getting your location.</string>
+
+    <string name="state_location_title">Set your location manually</string>
+    <string name="state_location_summary">Select one of province capitals of Iran if you are near them.</string>
+
+    <string name="about_title_text">\nAbout Qibla Compass</string>
+    <!-- Do not translate next two tag, it's used by program for other reasons -->
+    <string name="gps_pref_key">GPS_LOCATION_PREF</string>
+    <string name="state_location_pref_key">state_LOCATION_PREF</string>
+
+
+
+</resources>
